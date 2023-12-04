@@ -38,14 +38,4 @@ This set up requires:
 - Got: [got.go](_examples%2Fgot.go)
 - Expected: [expected.go](_examples%2Fexpected.go)
 
-[YouTube Video Showcasing Issue](https://youtu.be/gBapXssVWJE) if the video below isn't embedded
-
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/gBapXssVWJE?si=YC_XsStE_pCEkZO_"
-  title="Intellij Filewatchers Bug"
-  frameborder="0"
-  allow="clipboard-write; encrypted-media; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[YouTube Screencast](https://youtu.be/gBapXssVWJE)
